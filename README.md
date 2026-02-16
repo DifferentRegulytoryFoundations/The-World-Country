@@ -129,3 +129,12 @@ GDP token by country (Russia, USA, etc.) is an investment strategy that engages 
 - Limited emission and the obligation of the issuer to invest in the real sector of the country tied to the token increases the investment attractiveness of the token
 - The issuer’s obligation to decide on the payment of dividends from profits from direct investments increases confidence in the token
 - The ease of estimating GDP gives the investor a degree of understanding as to whether the token is worth investing in
+
+Официальные контактные данные
+Different Regulytory Foundations:
++79919336422
++79960476422
+MercuryFromSun@yandex.ru 
+DifferentRegulytoryFoundation@gmai.com
+vovanishe19921@gmail.com
+Differentrealityfund@gmail.com
