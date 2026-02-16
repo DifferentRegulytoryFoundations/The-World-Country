@@ -1,6 +1,8 @@
 # The-World-Country
 White paper of the country DRF - the world's first virtual country
 
+Doing by Menshenin Vladimir Dmitrievich
+
 DRF (Different Regultory Foundations) is a collection of regulatory Foundations that form a control structure called “From Center of Mass to Center of Mass.”
 The world's first virtual country.
 
@@ -129,6 +131,23 @@ GDP token by country (Russia, USA, etc.) is an investment strategy that engages 
 - Limited emission and the obligation of the issuer to invest in the real sector of the country tied to the token increases the investment attractiveness of the token
 - The issuer’s obligation to decide on the payment of dividends from profits from direct investments increases confidence in the token
 - The ease of estimating GDP gives the investor a degree of understanding as to whether the token is worth investing in
+
+The decentralized commodity of the citizens of the world civilization:
+
+doing by Putin Vladimir Vladimirovich 
+and Menshenin Vladimir Dmitrievich
+
+Evens Capitalization commodity (ECC):
+calculate the accounting capitalization of planet earth and link any capitalization that will be at the full and rapid disposal of the citizens of the earth.If a full-fledged colony of people appears on Mars, then all the resources of Mars will be linked to the accounting capitalization of the product.
+
+- determine the cost and introduce an unconditional basic income through universal unblocking to the account of every citizen of the earth
+- decentralized storage in each country according to its accounting capitalization
+- The control of the interest rate of the issue to the commodity wallet is carried out by a decentralized community of citizens of the DRF and by President of DRF decentralization community of citizens
+-A global reserve can be issued for a contribution to global public activity by a decentralized community of citizens according to the rules of operation of the accounting system described separately.
+- every citizen of human civilization can receive an asset according to an official document approved by the countries where the citizen received the document officially at birth, if the citizen does not have a birth certificate, he will be able to obtain a certificate in the DRF according to another official document. In order to avoid double expenses, the document must be confirmed by the official party.
+- If a citizen of the world has not received the world reserve as an unconditional basic income since the foundation of the DRF, then the citizen has the right to receive an asset for the entire period of the payments' existence.
+- The DRF can buy goods from the market for a percentage determined by all DRF structures.
+
 
 Официальные контактные данные
 Different Regulytory Foundations:
