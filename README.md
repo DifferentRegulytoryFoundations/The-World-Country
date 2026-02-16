@@ -19,7 +19,7 @@ Consists of:
 - DRF Fundation (RIC) - regulated investment goods
 - RIC Global Fund (GDP tokens)
 
-2. The Round Table is a management executive council consisting of Blocks, which is electoral and headed by an approved Supreme Council and an elected representative from all regulatory bodies of the Round Council. Each Block is independent.
+2. The Round Table is a governing and executive council consisting of Blocs, which is elected and headed by an approved Supreme Council and an elected representative from all regulatory bodies of the Round Table. Each Bloc is independent and has its own monetary and salary options.
 
 Consists of:
 - World Reserve Currency WRC
@@ -28,7 +28,7 @@ Consists of:
 - Economic Block
 - Science Block
 - Legal Block
-- Digital Block
+- Numpad
 - Entrepreneurial Block
 - Social Block
 - Infrastructure Block
@@ -82,6 +82,8 @@ A universal tax is a tax on the wallet.
 When lending currency by the Round Council and withdrawing it by the Supreme Council, the debt body is recalculated according to the amount withdrawn from the system, the interest remains unchanged (since when the Supreme Council withdraws liquidity from the market, market prices will be changed in favor of reduction, the debtor, having borrowed a large amount and throwing it into the economy, is obliged to return more than he can sell goods with new prices, so as not to worsen the debtor’s position, the debt body will be reduced by percentage withdrawal of money from the system through a universal tax).The debt amount will be reduced, interest will be recalculated
 - The Supreme Council is obliged to return the missing amount of currency that was lent from non-market liquidity from the Round Table in favor of the Round Table, so as not to reduce the debt capacity of the Round Table.
 - The Round Table, after withdrawal (repayment of debt), is obliged to return% of the debt in favor of the Supreme Council, so as not to reduce the overall non-market debt-free liquidity of the Supreme Council.
+
+- The Round Table has the right to independently determine its own salary based on a salary rate of a percentage of the funds withdrawn through loans. The salary percentage increases based on increased efficiency of the entire system and increased non-market debt liquidity.
 
 Thus, market and non-market debt and non-debt liquidity are absolutely controlled and can be in equilibrium with each other.
 
