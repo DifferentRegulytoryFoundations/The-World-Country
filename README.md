@@ -134,8 +134,7 @@ GDP token by country (Russia, USA, etc.) is an investment strategy that engages 
 
 The decentralized commodity of the citizens of the world civilization:
 
-doing by Putin Vladimir Vladimirovich,Menshenin Vladimir Dmitrievich and
-by Citizens of the world civilization.
+doing by Menshenin Vladimir Dmitrievich
 
 Evens Capitalization commodity (ECC):
 calculate the accounting capitalization of planet earth and link any capitalization that will be at the full and rapid disposal of the citizens of the earth.If a full-fledged colony of people appears on Mars, then all the resources of Mars will be linked to the accounting capitalization of the product.
