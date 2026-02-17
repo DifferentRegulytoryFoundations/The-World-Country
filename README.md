@@ -30,7 +30,7 @@ Consists of:
 - Economic Block
 - Science Block
 - Legal Block
-- Numpad
+- Digital Block
 - Entrepreneurial Block
 - Social Block
 - Infrastructure Block
