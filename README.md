@@ -26,14 +26,19 @@
 Серия 76 6261569
 27.12.2021
 ОВМ: 77533
-White paper of the country DRF - the world's first virtual country
+differentregulytoryfoundations@gmail.com
 
-Doing by Menshenin Vladimir Dmitrievich
+White paper of the country DRF - the world's first virtual country
 
 DRF (Different Regultory Foundations) is a collection of regulatory Foundations that form a control structure called “From Center of Mass to Center of Mass.”
 The world's first virtual country.
 
 Management structure: Decentralized-hierarchical with cyclic feedback.
+
+Economic system: the economy is a distributed economic system.
+- The state regulates the economy through monetary policy and does not directly participate in regulating the entire economic system. Each unit of society initially possesses distinct legal, economic, and monetary powers.
+
+The country's landscape and infrastructure style represents infrastructure carved from the existing landscape and virtual space with parameters as close as possible to the real world, with integrated artificial intelligence.
 
 Self-sufficient, developing management system:
 
@@ -41,12 +46,13 @@ Self-sufficient, developing management system:
 
 Consists of:
 - Family Council
-- TWR World Reserve
+- DRF Fundation
+DRF Token
+DRF Pension Fund 
+DRF Fundation (RIC) - regulated investment goods
+The RIC Global Fund (GDP tokens)
 - World Reserve Currency WRC
 (non-market debt-free liquidity)
-- Pension Fund of the World
-- DRF Fundation (RIC) - regulated investment goods
-- RIC Global Fund (GDP tokens)
 
 2. The Round Table is a governing and executive council consisting of Blocs, which is elected and headed by an approved Supreme Council and an elected representative from all regulatory bodies of the Round Table. Each Bloc is independent and has its own monetary and salary options.
 
@@ -69,35 +75,21 @@ Consists of:
 3.Decentralized Community of Citizens - Council of Citizens, which is headed by a representative elected from the decentralized community of citizens based on the internal rules of the community.
 
 Consists of:
-- Global Community of Decentralized Goods
-- Global Community “Your right limits My right”
+- Accounting capitalization of the world (ACW)
+- Community of Decentralized Goods
+- Community “Your right limits My right”
 
-World Reserve (TWR):
-The World Reserve (WRC) is a commodity backed by liquid instruments designed to cover the inflation of world currencies and issued as a tokenized asset without the possibility of direct earnings by the issuer.
-
-Original offering: World GDP at time of issue, valued in US dollars.
-The total offer is unlimited
-- TWR emissions are increased by the percentage of world GDP growth minus inflation once a year after receiving a full economic report on the global economy
-- Market sale at the current exchange rate, based on the calculation that 1 dollar equals 1 TWR
-- The market price of the TWR issuer is adjusted to take into account global inflation
-- Combined collateral with debt and debt-free liquid instruments
-- The issuer actively participates in the market without the right to receive income
-- One-time 4% Fund Fee from the initial token sale
-- Annual 0.05% Fund Fee for each year of token ownership (calculated and charged daily based on the token's net asset value)
-- The issuer has the right to lend the asset independently
 
 World Reserve Currency (WRC):
-Currency in equilibrium value is an emission debt currency with a limited emission principle, divided into market and non-market liquidity where non-market liquidity increases according to GDP growth minus inflation.
+A currency in equilibrium is a debt-issued currency with a limited emission principle, divided into market and non-market liquidity, where non-market liquidity increases in line with GDP growth less inflation.
 
-1. Currency is issued to the market according to GDP.
+1. Currency is issued into the market in line with GDP.
 2. An equal amount of currency remains with the issuer.
-3. Currency is divided into market and non-market liquidity.
+3. The currency is divided into market and non-market liquidity.
+- Non-market liquidity is divided into debt for the Round Council and non-debt for the Supreme Council.
+- Market liquidity is used in international monetary relations within the market.
 
-- Non-market liquidity is divided into debt liquidity for the round Council and debt-free liquidity for the Supreme Council
-
-- Market liquidity is used in monetary relations within the market.
-
-Debt-free: at the disposal of the High Council
+Debt-free: at the disposal of the Supreme Council
 - can be issued for market liquidity
 - can be withdrawn from market liquidity through a universal wallet tax (working with the world reserve and the correlation of price and purchasing power taken into account)
 Debt:
@@ -119,7 +111,27 @@ Thus, market and non-market debt and non-debt liquidity are absolutely controlle
 Increase in non-market liquidity:
 Non-market liquidity will increase by % of GDP growth. With a general drop in market liquidity and a fall in GDP, non-market liquidity does not increase until the peak of GDP growth is overcome, taking into account complex inflation. If GDP grows but market liquidity decreases, GDP will be recalculated (a situation may arise where, with GDP growth, the amount of liquidity in the market will decrease and prices will fall, and technically GDP may show growth and fall in numbers, then the recalculation will be made without taking into account the decrease in liquidity as if there was no withdrawal).
 
-The Pension Fund of the World - is a Tokenized Pension Fund for citizens of the world with a semi-automatic investment strategy and the highest possible liquidity. The issued token is a commodity and is sold on the open market, the proceeds are invested in the token:
+The Global Exchange is a global exchange trading currencies, commodities, tokenized assets, stocks, derivatives, and all types of resources.
+- Every citizen of the world has the right to register and trade all instruments included in the exchange.
+- Multi-IPO
+Start a business
+Sell the issued product
+Report an honest financial report
+Create a token tied to the business
+Register the token in the exchange's accounting system
+Trade the token
+Pay a commission on the sale
+
+Global Bank – a global bank with deposit and lending rights 
+– can issue its own token.
+- the ability to create a set for every inhabitant of the planet Earth is open, based on the individual's national passport.
+- the ability to create deposit strategies based on the bank's internal rules.
+
+DRF Fundation - official fund Differents Regulytory Foundations country.
+
+1.DRF Token - is a country token of Differents Regulatory Frameworks that is tied to all activities of the country and is linked to its own "profit per capita" reporting standards, without voting rights but with the right to pay dividends.
+
+2.DRF Pension Fund  - is a Tokenized Pension Fund for citizens of the world with a semi-automatic investment strategy and the highest possible liquidity. The issued token is a commodity and is sold on the open market, the proceeds are invested in the token:
 
 Composition of the Token
 10 largest industries in the world economy
@@ -131,7 +143,7 @@ Composition of the Token
 - The fund is open and does not oblige citizens to participate forcibly
 - The Fund’s own commission is 0.1%, the commission is taken from the initial sale of the token and for each subsequent year of token ownership (calculated daily based on the net asset value of the strategy
 
-DRF Fundation (RIC) is a fund that issues regulated investment products and strategies in the form of tokens that reflect the dynamics of various investment instruments. Since RIC is a commodity, even in the event of bankruptcy of the issuer, there is no risk of bankruptcy of the RIC token:
+3.DRF Fundation (RIC) is a fund that issues regulated investment products and strategies in the form of tokens that reflect the dynamics of various investment instruments. Since RIC is a commodity, even in the event of bankruptcy of the issuer, there is no risk of bankruptcy of the RIC token:
 
 TBP 10 DIV ON (Top 10 Blockchain) is an investment strategy that invests in the top 10 blockchain projects with the possibility of paying dividends DIV ON. Dividends are paid every 6 months in tokens from projects included in the strategy to the wallets of token holders.
 - 1:1 binding
@@ -148,7 +160,7 @@ TBP 10 DIV IN (Top 10 Blockchain) is an investment strategy that invests in the 
 RIC S&P 500 profit per capita is a token that reflects the dynamics of profit per person among the 500 largest global companies included in the S&P 500 index.
 - It is necessary to collect large data in a semi-automatic mode for the successful operation of the token.
 
-The RIC Global Fund (GDP tokens) is a tokenized fund investing in the real sector of the economy:
+4.The RIC Global Fund (GDP tokens) is a tokenized fund investing in the real sector of the economy:
 
 GDP token by country (Russia, USA, etc.) is an investment strategy that engages in direct investment in the country to which the token is linked with the possibility of paying dividends from investments in the real sector of the country linked to the token. The emission of the token will amount to the GDP of the country for which the token is issued.
 - Emissions are limited by the country’s GDP growth minus inflation
@@ -161,18 +173,15 @@ GDP token by country (Russia, USA, etc.) is an investment strategy that engages 
 
 The decentralized commodity of the citizens of the world civilization:
 
-doing by Menshenin Vladimir Dmitrievich
-
-Evens Capitalization commodity (ECC):
-calculate the accounting capitalization of planet earth and link any capitalization that will be at the full and rapid disposal of the citizens of the earth.If a full-fledged colony of people appears on Mars, then all the resources of Mars will be linked to the accounting capitalization of the product.
-
-- determine the cost and introduce an unconditional basic income through universal unblocking to the account of every citizen of the earth
-- decentralized storage in each country according to its accounting capitalization
-- The control of the interest rate of the issue to the commodity wallet is carried out by a decentralized community of citizens of the DRF and by President of DRF decentralization community of citizens
--A global reserve can be issued for a contribution to global public activity by a decentralized community of citizens according to the rules of operation of the accounting system described separately.
-- every citizen of human civilization can receive an asset according to an official document approved by the countries where the citizen received the document officially at birth, if the citizen does not have a birth certificate, he will be able to obtain a certificate in the DRF according to another official document. In order to avoid double expenses, the document must be confirmed by the official party.
-- If a citizen of the world has not received the world reserve as an unconditional basic income since the foundation of the DRF, then the citizen has the right to receive an asset for the entire period of the payments' existence.
-- The Supreme Council can buy goods from the market for a percentage determined by all DRF structures.
+Accounting capitalization of the world (ACW): 
+Сalculate the accounting capitalization of planet earth and link any capitalization that will be at the full and rapid disposal of the citizens of the earth.If a full-fledged colony of people appears on Mars, then all the resources of Mars will be linked to the accounting capitalization of the product.
+determine the cost and introduce an unconditional basic income through universal unblocking to the account of every citizen of the earth
+decentralized storage in each country according to its accounting capitalization
+The control of the interest rate of the issue to the commodity wallet is carried out by a decentralized community of citizens of the DRF and by President of DRF decentralization community of citizens 
+A global reserve can be issued for a contribution to global public activity by a decentralized community of citizens according to the rules of operation of the accounting system described separately.
+every citizen of human civilization can receive an asset according to an official document approved by the countries where the citizen received the document officially at birth, if the citizen does not have a birth certificate, he will be able to obtain a certificate in the DRF according to another official document. In order to avoid double expenses, the document must be confirmed by the official party.
+If a citizen of the world has not received the world reserve as an unconditional basic income since the foundation of the DRF, then the citizen has the right to receive an asset for the entire period of the payments' existence.
+The Supreme Council can buy goods from the market for a percentage determined by all DRF structures
 
 
 Официальные контактные данные
