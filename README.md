@@ -1,5 +1,6 @@
 # The-World-Country
 
+Menshenin Vladimir Dmitrievich 
 Российская Федерация
 Паспорт: 
 Меньшенин Владимир Дмитриевич
@@ -26,6 +27,10 @@
 Серия 76 6261569
 27.12.2021
 ОВМ: 77533
+
+
+
+
 differentregulytoryfoundations@gmail.com
 
 White paper of the country DRF - the world's first virtual country
@@ -59,6 +64,7 @@ Consists of:
 Consists of:
 - World Reserve Currency WRC
 (non-market debt liquidity)
+- Global Bank
 - Diplomatic Block
 - Economic Block
 - Science Block
@@ -181,7 +187,7 @@ Accounting capitalization of the world (ACW):
 A global reserve can be issued for a contribution to global public activity by a decentralized community of citizens according to the rules of operation of the accounting system described separately.
 every citizen of human civilization can receive an asset according to an official document approved by the countries where the citizen received the document officially at birth, if the citizen does not have a birth certificate, he will be able to obtain a certificate in the DRF according to another official document. In order to avoid double expenses, the document must be confirmed by the official party.
 If a citizen of the world has not received the world reserve as an unconditional basic income since the foundation of the DRF, then the citizen has the right to receive an asset for the entire period of the payments' existence.
-The Supreme Council can buy goods from the market for a percentage determined by all DRF structures
+The Supreme Council can buy goods from the market for a percentage determined by all DRF structures.
 
 
 Официальные контактные данные
@@ -192,3 +198,4 @@ MercuryFromSun@yandex.ru
 DifferentRegulytoryFoundation@gmai.com
 vovanishe19921@gmail.com
 Differentrealityfund@gmail.com
+https://t.me/DifferentRegulytoryFoundations
