@@ -87,20 +87,17 @@ Consists of:
 
 
 World Reserve Currency (WRC):
-A currency in equilibrium is a debt-issued currency with a limited emission principle, divided into market and non-market liquidity, where non-market liquidity increases in line with GDP growth less inflation.
+A debt currency is a currency whose emission increases at a rate equal to the annual emission rate on the total money supply.
 
-1. Currency is issued into the market in line with GDP.
-2. An equal amount of currency remains with the issuer.
-3. The currency is divided into market and non-market liquidity.
-- Non-market liquidity is divided into debt for the Round Council and non-debt for the Supreme Council.
-- Market liquidity is used in international monetary relations within the market.
-
-Debt-free: at the disposal of the Supreme Council
-- can be issued for market liquidity
-- can be withdrawn from market liquidity through a universal wallet tax (working with the world reserve and the correlation of price and purchasing power taken into account)
-Debt:
-- At the disposal of the Round Table
-- Issued as a loan at a percentage determined by the Round Council.
+1. The initial emission is carried out in accordance with global GDP.
+2. The emission rate is the annual interest rate on the total money supply, based on inflation targets.
+- The policy of redistribution and substitution works as follows: you can inject 20% of the total money supply into the system, of which 10% can be issued as debt and 10% as cash injections. Simultaneously, you can withdraw 20% of all money from the system through a general tax on wallets. To ensure sufficient funds for debt withdrawal, you can gradually add an amount equal to 10% to the system. Then, with proper redistribution, inflation will be zero.
+- The inflation target is 0.2% per annum.
+3. "The general tax is a tax on the wallet for "market liquidity."
+- From each wallet holding currency within "market liquidity," funds can be withdrawn at a percentage determined by the Supreme Council.
+3. The currency is divided into "market liquidity" and "non-market liquidity."
+- "Market liquidity" is issued to wallets of all central banks worldwide, based on the GDP of each country, in a blocked form; "market liquidity" is opened once a year at a percentage determined by the Supreme Council.
+"Market liquidity" is used in international monetary relations and does not participate in the currency markets of countries around the world.
 
 Currency operation:
 
@@ -116,6 +113,8 @@ Thus, market and non-market debt and non-debt liquidity are absolutely controlle
 
 Increase in non-market liquidity:
 Non-market liquidity will increase by % of GDP growth. With a general drop in market liquidity and a fall in GDP, non-market liquidity does not increase until the peak of GDP growth is overcome, taking into account complex inflation. If GDP grows but market liquidity decreases, GDP will be recalculated (a situation may arise where, with GDP growth, the amount of liquidity in the market will decrease and prices will fall, and technically GDP may show growth and fall in numbers, then the recalculation will be made without taking into account the decrease in liquidity as if there was no withdrawal).
+
+It system of currency can be combined with 2x currency system where have non debt small emission upper and currency system with debt to Round Table (dotation%, difficult %) 
 
 The Global Exchange is a global exchange trading currencies, commodities, tokenized assets, stocks, derivatives, and all types of resources.
 - Every citizen of the world has the right to register and trade all instruments included in the exchange.
